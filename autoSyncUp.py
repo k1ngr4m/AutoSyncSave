@@ -127,6 +127,7 @@ def doScp(srcPath,cnf):
             sftp = paramiko.SFTPClient.from_transport(ssh.get_transport())
             sftp = ssh.open_sftp()
             sftp.put(srcPath,dstFile)
+            print("存档上传成功！")
             ssh.close()
             bRet = True
     except :
