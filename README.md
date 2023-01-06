@@ -23,3 +23,6 @@ cmd -k "autoSync.exe default.xml"
 default.xml文件说明：
 
 ![image](https://user-images.githubusercontent.com/88479528/210943237-75f2ab92-6e6d-4c04-9cd2-96ea31bdedd8.png)
+
+
+注意：如果有多台服务器，可以新建多个xml配置文件，然后分别执行python autoSync.py config.xml来执行同步。
