@@ -1,8 +1,8 @@
 <config>
-    <host>123.60.188.15</host>
+    <host>127.0.0.1</host>
     <sshPort>22</sshPort>
     <user>root</user>
-    <password>ColayKD41</password>
+    <password>123456</password>
     <localDir>./save</localDir>
     <remoteDir>/tmp/save</remoteDir>
     
