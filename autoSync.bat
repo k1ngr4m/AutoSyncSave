@@ -1,0 +1,1 @@
+cmd /k "autoSync.exe default.xml"

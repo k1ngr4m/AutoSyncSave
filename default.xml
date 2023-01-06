@@ -1,0 +1,20 @@
+<config>
+    <host>123.60.188.15</host>
+    <sshPort>22</sshPort>
+    <user>root</user>
+    <password>ColayKD41</password>
+    <localDir>./save</localDir>
+    <remoteDir>/tmp/save</remoteDir>
+    
+<!--    <fileExcept>-->
+<!--        <file>f1.txt</file>-->
+<!--        <file>data/f2.txt</file>-->
+<!--    </fileExcept>-->
+<!--    -->
+<!--    <dirExcept>-->
+<!--        <dir>.git</dir>-->
+<!--        <dir>data/dir2</dir>-->
+<!--        <dir>00</dir>-->
+<!--    </dirExcept>-->
+    
+</config>        
